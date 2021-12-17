@@ -1,0 +1,11 @@
+Flask==1.1.1
+Flask-RESTful==0.3.7
+Flask-HTTPAuth==3.3.0
+Flask-Cors==3.0.8
+configparser==4.0.2
+Jinja2==2.10.3
+eventlet==0.25.1
+libvirt-python==5.7.0
+PyYAML==3.13
+salt==2019.2.1
+xmltodict==0.12.0
